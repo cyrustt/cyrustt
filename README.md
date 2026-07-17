@@ -2,7 +2,7 @@
 
 I am interested in quantitative research at the intersection of mathematical modeling, statistical learning, optimization, and reliable computation.
 
-My projects range from counterfactual retrieval to topological analysis of high-dimensional data and applied matching systems. I enjoy turning quantitative questions into reproducible experiments—and using computational evidence to test where an idea works, fails, or needs stronger assumptions.
+My projects range from counterfactual retrieval to topological analysis of high-dimensional data and applied matching systems. I enjoy turning quantitative questions into reproducible experiments and using computational evidence to test where an idea works, fails, or needs stronger assumptions.
 
 ## Selected work
 
